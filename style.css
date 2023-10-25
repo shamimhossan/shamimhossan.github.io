@@ -326,8 +326,7 @@ header .fa-bars {
     flex: 1  1  40rem;
 }
 .contact  .row .image  img{
-    width:30%;
-    height:30%;
+    width:100%;
 } 
 .contact  .row form .box{
     padding:1rem;
@@ -382,7 +381,7 @@ header .fa-bars {
     border-top: .1rem  solid rgba(0, 0, 0, 0.1);
 }
 .footer  .credit span{
-    color:var(--pink);
+    color:var(--pink)
 }
 
 
