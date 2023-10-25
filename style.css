@@ -326,7 +326,8 @@ header .fa-bars {
     flex: 1  1  40rem;
 }
 .contact  .row .image  img{
-    width:100%;
+    width:30%;
+    height:30%;
 } 
 .contact  .row form .box{
     padding:1rem;
