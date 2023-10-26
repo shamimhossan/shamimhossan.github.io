@@ -486,6 +486,7 @@ button{
 }
 .contact  .row .image  img{
     width:100%;
+    height:100%;
 } 
 .contact  .row form .box{
     padding:1rem;
